@@ -1,0 +1,29 @@
+{
+  "repository": "ai-builder-studio",
+  "title": "AI Builder Studio",
+  "master_skill": "ai-builder-studio",
+  "discoverable_skills": 1,
+  "internal_modules": [
+    "ai-application-engineer.md",
+    "ai-model-integration.md",
+    "rag-engineer.md",
+    "multimodal-ai-engineer.md",
+    "ai-inference-optimizer.md",
+    "ai-voice-engineer.md",
+    "ai-image-engineer.md",
+    "ai-video-engineer.md",
+    "ai-search-engineer.md",
+    "ai-evaluation-engineer.md",
+    "human-centered-product-design.md",
+    "design-quality-critic.md",
+    "product-experience-engineer.md",
+    "INDEX.md"
+  ],
+  "module_count": 13,
+  "human_centered_modules": [
+    "human-centered-product-design",
+    "design-quality-critic",
+    "product-experience-engineer"
+  ],
+  "note": "Internal modules are reference playbooks, not separate discoverable skills."
+}

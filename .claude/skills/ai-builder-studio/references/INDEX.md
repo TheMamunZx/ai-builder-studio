@@ -1,0 +1,15 @@
+# Internal Reference Index
+
+- [ai-application-engineer.md](./ai-application-engineer.md)
+- [ai-model-integration.md](./ai-model-integration.md)
+- [rag-engineer.md](./rag-engineer.md)
+- [multimodal-ai-engineer.md](./multimodal-ai-engineer.md)
+- [ai-inference-optimizer.md](./ai-inference-optimizer.md)
+- [ai-voice-engineer.md](./ai-voice-engineer.md)
+- [ai-image-engineer.md](./ai-image-engineer.md)
+- [ai-video-engineer.md](./ai-video-engineer.md)
+- [ai-search-engineer.md](./ai-search-engineer.md)
+- [ai-evaluation-engineer.md](./ai-evaluation-engineer.md)
+- [human-centered-product-design.md](./human-centered-product-design.md)
+- [design-quality-critic.md](./design-quality-critic.md)
+- [product-experience-engineer.md](./product-experience-engineer.md)
